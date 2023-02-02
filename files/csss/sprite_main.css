@@ -1,0 +1,579 @@
+.sprite_main {
+    display: inline-block;
+    background: url('../sprite.png') no-repeat;
+
+
+    vertical-align: middle;
+}
+
+
+.sprite_main.country_usa {
+    background-position: -520px -10px;
+    width: 60px;
+    height: 30px;
+}
+
+.sprite_main.country_germany {
+    background-position: -520px -50px;
+    width: 60px;
+    height: 30px;
+}
+
+.sprite_main.country_ussr {
+    background-position: -520px -90px;
+    width: 60px;
+    height: 30px;
+}
+
+.sprite_main.country_britain {
+    background-position: -520px -130px;
+    width: 60px;
+    height: 30px;
+}
+
+.sprite_main.country_japan {
+    background-position: -520px -170px;
+    width: 60px;
+    height: 30px;
+}
+
+.sprite_main.country_italy {
+    background-position: -520px -210px;
+    width: 60px;
+    height: 30px;
+}
+
+.sprite_main.country_france {
+    background-position: -520px -250px;
+    width: 60px;
+    height: 30px;
+}
+
+.sprite_main.i_blue {
+    background-position: -520px -290px;
+    width: 24px;
+    height: 24px;
+}
+
+.sprite_main.i_orange {
+    background-position: -520px -324px;
+    width: 24px;
+    height: 24px;
+}
+
+.sprite_main.right {
+    background-position: -570px -290px;
+    width: 10px;
+    height: 50px;
+}
+
+.sprite_main.lock_open {
+    background-position: -544px -363px;
+    width: 38px;
+    height: 49px;
+}
+
+.sprite_main.lock_close {
+    background-position: -544px -422px;
+    width: 38px;
+    height: 49px;
+}
+
+.sprite_main.logo_off {
+    background-position: -10px -8px;
+    width: 101px;
+    height: 96px;
+}
+
+.sprite_main.logo_on {
+    background-position: -121px -8px;
+    width: 101px;
+    height: 96px;
+    display: none;
+}
+
+.sprite_main.place_1 {
+    background-position: -231px -9px;
+    width: 88px;
+    height: 82px;
+}
+
+.sprite_main.place_2 {
+    background-position: -327px -9px;
+    width: 88px;
+    height: 82px;
+}
+
+.sprite_main.place_3 {
+    background-position: -423px -9px;
+    width: 88px;
+    height: 82px;
+}
+
+.sprite_main.search_off {
+    background-position: -9px -112px;
+    width: 26px;
+    height: 26px;
+}
+
+.sprite_main.search_on {
+    background-position: -9px -146px;
+    width: 26px;
+    height: 26px;
+}
+
+.sprite_main.battle_on {
+    background-position: -39px -146px;
+    width: 24px;
+    height: 22px;
+}
+
+.sprite_main.start_battle {
+    background-position: -71px -146px;
+    width: 22px;
+    height: 22px;
+}
+
+.sprite_main.start {
+    background-position: -101px -146px;
+    width: 22px;
+    height: 22px;
+}
+
+.sprite_main.user {
+    background-position: -102px -117px;
+    width: 20px;
+    height: 20px;
+}
+
+.sprite_main.info {
+    background-position: -132px -117px;
+    width: 20px;
+    height: 20px;
+}
+
+.sprite_main.cluster {
+    background-position: -131px -146px;
+    width: 22px;
+    height: 22px;
+}
+
+.sprite_main.point_off {
+    background-position: -161px -116px;
+    width: 22px;
+    height: 22px;
+}
+
+.sprite_main.point_on {
+    background-position: -162px -147px;
+    width: 20px;
+    height: 20px;
+}
+
+.sprite_main.cup_off {
+    background-position: -192px -117px;
+    width: 20px;
+    height: 20px;
+}
+
+.sprite_main.cup_on {
+    background-position: -191px -146px;
+    width: 22px;
+    height: 22px;
+}
+
+.sprite_main.ge_off {
+    background-position: -120px -261px;
+    width: 20px;
+    height: 19px;
+}
+
+
+.sprite_main.time_off {
+    background-position: -221px -116px;
+    width: 22px;
+    height: 22px;
+}
+
+.sprite_main.time_on {
+    background-position: -222px -147px;
+    width: 22px;
+    height: 22px;
+}
+
+.sprite_main.teams {
+    background-position: -253px -146px;
+    width: 22px;
+    height: 22px;
+}
+
+.sprite_main.fly_off {
+    background-position: -253px -116px;
+    width: 22px;
+    height: 22px;
+}
+
+.sprite_main.users_off {
+    background-position: -283px -116px;
+    width: 28px;
+    height: 22px;
+}
+
+.sprite_main.captain_off {
+    background-position: -319px -116px;
+    width: 28px;
+    height: 22px;
+}
+
+.sprite_main.calendar{
+    background-position: -10px -321px;
+    width: 32px;
+    height: 34px;
+}
+
+.sprite_main.right_off{
+    background-position: -44px -207px;
+    width: 7px;
+    height: 13px;
+}
+.sprite_main.right_on {
+    background-position: -61px -207px;
+    width: 7px;
+    height: 13px;
+    display: none;
+}
+
+.sprite_main.hide_block {
+    background-position: -134px -208px;
+    width: 22px;
+    height: 12px;
+}
+
+.sprite_main.view_block {
+    background-position: -105px -208px;
+    width: 20px;
+    height: 12px;
+}
+
+.sprite_main.comment{
+    background-position: -76px -181px;
+    width: 17px;
+    height: 16px;
+}
+
+.sprite_main.ge_on{
+    background-position: -90px -261px;
+    width: 20px;
+    height: 19px;
+}
+
+.sprite_main.like{
+    background-position: -102px -180px;
+    width: 19px;
+    height: 18px;
+}
+
+.sprite_main.bracket{
+    background-position: -192px -177px;
+    width: 22px;
+    height: 22px;
+}
+
+.sprite_main.change_tss{
+    width: 22px;
+    height: 18px;
+    background:url('../images/tpl2/sprite.png') -129px -180px;
+}
+
+
+.sprite_main.gaijin{
+    background-position: -89px -319px;
+    width: 27px;
+    height: 35px;
+}
+
+.sprite_main.vk{
+    background-position: -49px -252px;
+    width: 32px;
+    height: 35px;
+}
+
+.sprite_main.facebook{
+    background-position: -30px -222px;
+    width: 15px;
+    height: 35px;
+}
+
+.sprite_main.instagram{
+    background-position: -49px -317px;
+    width: 32px;
+    height: 35px;
+}
+
+.sprite_main.youtube{
+    background-position: -49px -282px;
+    width: 32px;
+    height: 35px;
+}
+
+.sprite_main.gaijin_ent{
+    background-position: -9px -362px;
+    width: 98px;
+    height: 48px;
+}
+
+.sprite_main.ps4{
+    background-position: -110px -362px;
+    width: 98px;
+    height: 48px;
+}
+
+.sprite_main.xbox{
+    background-position: -221px -362px;
+    width: 104px;
+    height: 48px;
+}
+.sprite_main.windows{
+    background-position: -332px -362px;
+    width: 99px;
+    height: 48px;
+}
+
+.sprite_main.steam{
+    background-position: -434px -362px;
+    width: 87px;
+    height: 48px;
+}
+
+.sprite_main.mac{
+    background-position: -1px -422px;
+    width: 42px;
+    height: 48px;
+}
+
+.sprite_main.oculus{
+    background-position: -40px -422px;
+    width: 49px;
+    height: 48px;
+}
+
+.sprite_main.vive{
+    background-position: -100px -422px;
+    width: 52px;
+    height: 48px;
+}
+
+.sprite_main.linux{
+    background-position: -156px -422px;
+    width: 40px;
+    height: 48px;
+}
+
+.sprite_main.age{
+    background-position: -190px -422px;
+    width: 170px;
+    height: 48px;
+}
+
+.sprite_main.linck_on{
+    background-position: -10px -178px;
+    width: 22px;
+    height: 20px;
+}
+
+.sprite_main.linck_off{
+    background-position: -44px -178px;
+    width: 22px;
+    height: 20px;
+}
+
+.sprite_main.vehicle{
+    background-position: -254px -117px;
+    width: 20px;
+    height: 20px;
+}
+
+.sprite_main.first_place_left{
+    background-position: -232px -10px;
+    width: 38px;
+    height: 80px;
+}
+.sprite_main.first_place_right{
+    background-position: -280px -10px;
+    width: 38px;
+    height: 80px;
+}
+
+.sprite_main.silver_place_left{
+    background-position: -328px -10px;
+    width: 38px;
+    height: 80px;
+}
+.sprite_main.silver_place_right{
+    background-position: -376px -10px;
+    width: 38px;
+    height: 80px;
+}
+
+.sprite_main.bronze_place_left{
+    background-position: -424px -10px;
+    width: 38px;
+    height: 80px;
+}
+.sprite_main.bronze_place_right{
+    background-position: -472px -10px;
+    width: 38px;
+    height: 80px;
+}
+
+.sprite_main.warning_icon{
+    background-position: -520px -324px;
+    width: 24px;
+    height: 24px;
+}
+
+.sprite_main.team_name_icon{
+    background-position: -284px -117px;
+    width: 26px;
+    height: 20px;
+}
+.sprite_main.team_name_icon_off{
+    background-position: -284px -147px;
+    width: 26px;
+    height: 20px;
+}
+
+
+.sprite_main.captain_icon{
+    background-position: -320px -119px;
+    width: 26px;
+    height: 18px;
+}
+.sprite_main.captain_icon_off{
+    background-position: -320px -147px;
+    width: 26px;
+    height: 18px;
+}
+
+.sprite_main.link_off{
+    background-position: -447px -113px;
+    width: 28px;
+    height: 28px;
+}
+
+.sprite_main.stats_off{
+    background-position: -417px -147px;
+    width: 20px;
+    height: 20px;
+}
+.sprite_main.stats_on{
+    background-position: -417px -117px;
+    width: 20px;
+    height: 20px;
+}
+
+.sprite_main.cross_off{
+    background-position: -387px -147px;
+    width: 20px;
+    height: 20px;
+}
+.sprite_main.open_off{
+    background-position: -105px -208px;
+    width: 20px;
+    height: 12px;
+}
+.sprite_main.close_off{
+    background-position: -135px -208px;
+    width: 20px;
+    height: 12px;
+}
+.sprite_main.lock_on{
+    background-position: -419px -178px;
+    width: 16px;
+    height: 20px;
+}
+
+.sprite_main.ok_icon{
+    background-position: -520px -290px;
+    width: 24px;
+    height: 24px;
+}
+
+.sprite_main.lock_on_big{
+    background-position: -544px -363px;
+    width: 38px;
+    height: 49px;
+}
+
+.sprite_main.count_users{
+    background-position: -289px -178px;
+    width: 16px;
+    height: 20px;
+}
+
+.sprite_main.flag_check{
+    background-position: -451px -150px;
+    width: 24px;
+    height: 24px;
+}
+
+.sprite_main.EXP_HIT{
+    background-position: -222px -230px;
+    width: 20px;
+    height: 20px;
+}
+.sprite_main.EXP_CRITICAL_HIT{
+    background-position: -285px -230px;
+    width: 20px;
+    height: 20px;
+}
+.sprite_main.EXP_ASSIST{
+    background-position: -345px -230px;
+    width: 20px;
+    height: 20px;
+}
+.sprite_main.FRAG{
+    background-position: -345px -230px;
+    width: 20px;
+    height: 20px;
+}
+.sprite_main.EXP_CAPTURE_ZONE{
+    background-position: -315px -230px;
+    width: 20px;
+    height: 20px;
+}
+.sprite_main.DEATH{
+    background-position: -376px -230px;
+    width: 20px;
+    height: 20px;
+}
+.sprite_main.right_b{
+    background-position: -195px -230px;
+    width: 12px;
+    height: 20px;
+}
+.sprite_main.left_b{
+    background-position: -173px -230px;
+    width: 12px;
+    height: 20px;
+}
+.sprite_main.replay_off{
+    background-position: -451px -184px;
+    width: 20px;
+    height: 20px;
+}
+.sprite_main.info_off{
+    background-position: -451px -214px;
+    width: 20px;
+    height: 20px;
+}
+
+.sprite_main.tournament_end{
+    background-position: -162px -178px;
+    width: 20px;
+    height: 20px;
+}
+
+
+
+
