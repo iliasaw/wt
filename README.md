@@ -1,2 +1,2 @@
-# wt
-War Thunder Events
+# WT
+Events
